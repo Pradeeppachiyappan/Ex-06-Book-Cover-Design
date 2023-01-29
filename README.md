@@ -125,8 +125,7 @@ img{
 }
 ```
 # cover-page-design
-![book cover](https://user-images.githubusercontent.com/118707347/215305958-e9f326f7-5fe1-4f8d-b775-83f20e28f09a.jpg)
-
+![output](./book%20cover.jpg)
 
 # Result
 The program for designing book cover page using HTML and CSS is executed successfully
